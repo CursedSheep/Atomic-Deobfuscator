@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtomicDeobfuscator", "AtomicDeobfuscator.csproj", "{84E3BD1E-C5EB-4F8D-8C37-5D29B5B65554}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84E3BD1E-C5EB-4F8D-8C37-5D29B5B65554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E3BD1E-C5EB-4F8D-8C37-5D29B5B65554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E3BD1E-C5EB-4F8D-8C37-5D29B5B65554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E3BD1E-C5EB-4F8D-8C37-5D29B5B65554}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {638BF5FA-EE3D-403D-92C5-6663D1F49AFE}
+	EndGlobalSection
+EndGlobal
